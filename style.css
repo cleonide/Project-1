@@ -1,1 +1,27 @@
+body {
+    background-color: #F2E8CF;
+    color: #386641;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
 
+h1 {
+    color: #dacda4;
+}
+
+h2 {
+    color: #0e0c05;
+}
+
+p {
+    color: #715c43;
+    line-height: 1.6;
+}
+
+li {
+    color: ##a89671;
+}
+
+a {
+    color: ##8a7758;
+}
