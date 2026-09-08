@@ -25,3 +25,11 @@ li {
 a {
     color: ##8a7758;
 }
+div{
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    border: 2px solic black;
+    padding: 20px;
+    marging: 30px;
+}
